@@ -1,2 +1,2 @@
 # college_connect
-# Hello guys
+Hello guys
